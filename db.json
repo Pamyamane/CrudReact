@@ -1,0 +1,117 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Milk",
+      "username": "Lorem Ipsum is simply dummy text",
+      "email": "Active"
+    },
+    {
+      "id": "4",
+      "name": "Milk",
+      "username": "Lorem Ipsum is simply dummy text",
+      "email": "Active"
+    },
+    {
+      "id": "5",
+      "name": "Fruits",
+      "username": "Lorem Ipsum is simply dummy text",
+      "email": "InActive"
+    },
+    {
+      "id": "5",
+      "name": "Fruits",
+      "username": "Lorem Ipsum is simply dummy text",
+      "email": "InActive"
+    },
+    {
+      "id": "3",
+      "name": "Fruits",
+      "username": "Lorem Ipsum is simply dummy text",
+      "email": "Active"
+    },
+    {
+      "id": "382b",
+      "name": "aaa",
+      "username": "bbb",
+      "email": ""
+    },
+    {
+      "id": "a70f",
+      "name": "abhi",
+      "username": "sabane",
+      "email": ""
+    },
+    {
+      "id": "e63b",
+      "name": "abhi",
+      "username": "sabane",
+      "email": "InActive"
+    },
+    {
+      "id": "e275",
+      "name": "pamya",
+      "username": "mane",
+      "email": ""
+    },
+    {
+      "id": "c5b2",
+      "name": "aaa",
+      "username": "ddd",
+      "email": "Active"
+    },
+    {
+      "id": "58ca",
+      "name": "cc",
+      "username": "vvv",
+      "email": "active"
+    }
+  ],
+  "users1": [
+    {
+      "id": "1",
+      "name": "Amul Taaza",
+      "username": "500 ml",
+      "email": "Milk",
+      "phone": "Rs 27",
+      "date": "bbb",
+      "status": "Active"
+    },
+    {
+      "id": "2",
+      "name": "Gokul Cow",
+      "username": "500 ml",
+      "email": "Milk",
+      "phone": "Rs 27",
+      "date": "bbb",
+      "status": "InActive"
+    },
+    {
+      "id": "3",
+      "name": "Shimla Apple",
+      "username": "1 kg",
+      "email": "Fruits",
+      "phone": "Rs 150",
+      "date": "bbb",
+      "status": "InActive"
+    },
+    {
+      "id": "40b9",
+      "name": "mmmm",
+      "username": "nnnnnnn",
+      "email": ""
+    },
+    {
+      "id": "0e1a",
+      "name": "abhi",
+      "username": "sabane",
+      "email": ""
+    },
+    {
+      "id": "bc22",
+      "name": "aaa",
+      "username": "bbb",
+      "email": ""
+    }
+  ]
+}

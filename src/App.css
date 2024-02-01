@@ -23,7 +23,29 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.table {
+  width: 1050px;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+  align-items: center;
+  justify-content: center;
+  
+}
 
+.table th, .table td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
 .App-link {
   color: #61dafb;
 }
@@ -36,3 +58,38 @@
     transform: rotate(360deg);
   }
 }
+/* Sidebar.css */
+.sidebar {
+  height: 100%;
+  width: 250px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #ebe8ed;
+  padding-top: 20px; 
+} 
+
+.sidebar h2 {
+  color: white;
+  text-align: center;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar li {
+  padding: 10px;
+  text-align: center;
+}
+
+.sidebar a {
+  text-decoration: none;
+  color: white;
+}
+
+.sidebar a:hover {
+  background-color: #555;
+}
+  
