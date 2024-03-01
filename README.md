@@ -44,6 +44,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Pamyamane/Pamyamane/snake.svg" alt="Snake animation" />
 
 ###
